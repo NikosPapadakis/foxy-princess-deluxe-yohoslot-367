@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foxy-princess-deluxe-yohoslot.github.io/sitemap.xml
